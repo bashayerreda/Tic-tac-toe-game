@@ -1,0 +1,37 @@
+.Xclass
+{
+   -fx-text-fill :  deeppink;
+   -fx-background-color:  gold;
+   -fx-border-color: black;
+   -fx-border-width: 3px;
+   -fx-font-size:75px;
+   -fx-font-family:'jokerman';
+   -fx-border-radius: 110px;
+   -fx-background-radius: 110px;
+   -fx-effect: dropshadow(three-pass-box, rgba(191, 191, 63, 0.8), 30, 0, 0, 0);
+   
+}
+.Oclass
+{
+   -fx-text-fill : navy;
+   -fx-background-color:  greenyellow ;
+   -fx-border-color: black;
+   -fx-border-width: 3px;
+   -fx-font-size:75px;
+   -fx-border-radius: 110px;
+   -fx-background-radius: 110px;
+   -fx-font-family: 'jokerman';
+   -fx-effect: dropshadow(three-pass-box, rgba(191, 191, 63, 0.8), 30, 0, 0, 0);
+}
+.defClass
+{
+    -fx-border-radius: 110px;
+   -fx-background-radius: 110px;
+   -fx-border-color: cyan;
+   -fx-border-width: 3px;
+   -fx-background-color:  black;
+}
+#SnakeVideo{
+    -fx-border-width: 200px;
+    
+}
